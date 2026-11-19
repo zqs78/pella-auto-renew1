@@ -19,7 +19,7 @@ PELLA_PASSWORD = os.environ.get("PELLA_PASSWORD", "")
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 TG_CHAT_ID = os.environ.get("TG_CHAT_ID", "")
 SERVER_URL = os.environ.get(
-    "SERVER_URL", "https://www.pella.app/server/0697d3fc8cd7467bbbbc1fd4abca8e83"
+    "SERVER_URL", "https://www.pella.app/server/530d0f6100af4a75b5a3ffc56e624284"
 )
 LOGIN_URL = "https://www.pella.app/login"
 
